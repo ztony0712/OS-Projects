@@ -22,21 +22,21 @@ The achievement of four build-in commands is very simple and basic. It will prin
 
 **(1)** ***Build-in commands***
 
-![img](file:////private/var/folders/1r/dhd08qds3z15g6h1cnyrmlx40000gn/T/com.kingsoft.wpsoffice.mac/wps-macbookpro/ksohtml/wpsYkkYSh.jpg) 
+![img](pics/pic1.png) 
 
 **(2)** ***Advance feature (without redirect)***
 
-![img](file:////private/var/folders/1r/dhd08qds3z15g6h1cnyrmlx40000gn/T/com.kingsoft.wpsoffice.mac/wps-macbookpro/ksohtml/wpsVsaGM0.jpg) 
+![img](pics/pic2.png) 
 
 **(3)** ***Redirect***
 
-![img](file:////private/var/folders/1r/dhd08qds3z15g6h1cnyrmlx40000gn/T/com.kingsoft.wpsoffice.mac/wps-macbookpro/ksohtml/wpsmIuYZu.jpg) 
+![img](pics/pic3.png) 
 
-![img](file:////private/var/folders/1r/dhd08qds3z15g6h1cnyrmlx40000gn/T/com.kingsoft.wpsoffice.mac/wps-macbookpro/ksohtml/wpstURt4a.jpg) 
+![img](pics/pic4.png) 
 
 **(4)** ***Help***
 
-![img](file:////private/var/folders/1r/dhd08qds3z15g6h1cnyrmlx40000gn/T/com.kingsoft.wpsoffice.mac/wps-macbookpro/ksohtml/wpsZwBGh9.jpg)  
+![img](pics/pic5.png)  
 
 ## ***Reference***
 
